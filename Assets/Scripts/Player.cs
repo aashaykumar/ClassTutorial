@@ -7,7 +7,7 @@ public class Player : MonoBehaviour
     int playerx = 0;
     int playery = 0;
     int targetx = 0;
-    int targety = 0;
+    int targety = 1;
     bool win = false;
     // Start is called before the first frame update
     void Start()
